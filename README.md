@@ -1,6 +1,9 @@
 ## Intro Machine Learning
 
 ### Essential Libraries and Tools
+`$ pip3 install --upgrade pip`
+`$ pip3 install -U numpy scipy matplotlib ipython scikit-learn pandas pillow`
+`$ pip3 install -U  jupyterlab`
 - scikit-learn : 
   - https://scikit-learn.org/
   - built ontop of Numpy and SciPy
@@ -17,4 +20,11 @@
 - matplotlib
   - https://matplotlib.org/
   - "Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python."
-  
+- ipython
+  - A powerful interactive shell. A kernel for Jupyter.
+- jupyter
+  - JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, and data.
+  - https://jupyter.org/install.html
+- pillow
+  - https://pillow.readthedocs.io/en/stable/
+  - Pillow is the friendly PIL fork by Alex Clark and Contributors. PIL is the Python Imaging Library by Fredrik Lundh and Contributors.
