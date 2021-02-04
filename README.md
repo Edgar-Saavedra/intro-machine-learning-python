@@ -22,9 +22,15 @@
   - "Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python."
 - ipython
   - A powerful interactive shell. A kernel for Jupyter.
+  - https://ipython.readthedocs.io/en/stable/overview.html
 - jupyter
   - JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, and data.
   - https://jupyter.org/install.html
 - pillow
   - https://pillow.readthedocs.io/en/stable/
   - Pillow is the friendly PIL fork by Alex Clark and Contributors. PIL is the Python Imaging Library by Fredrik Lundh and Contributors.
+- mglearn
+  - https://github.com/amueller/mglearn
+  - Helper functions for the book "Introduction to Machine Learning with Python"
+  - `$ pip3 install mglearn`
+
